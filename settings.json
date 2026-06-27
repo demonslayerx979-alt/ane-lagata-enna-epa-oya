@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ane mage lagata enna epa oya",
     "password": "",
     "type": "offline"
   },
@@ -27,13 +27,15 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Dineth gona",
+        "Gishan gothaya ",
+        "ubalata mn baya naa yakoo"
+        "halo navadeep pka"
+        "ubala okkoma mage evun bn"
       ]
     },
     "chat-log": true,
