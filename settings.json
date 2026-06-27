@@ -27,15 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
+      "enabled": true,
+      "repeat": true,
       "repeat-delay": 120,
       "messages": [
         "Dineth gona",
         "Gishan gothaya ",
         "ubalata mn baya naa yakoo"
-        "halo navadeep pka"
-        "ubala okkoma mage evun bn"
       ]
     },
     "chat-log": true,
